@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on Flutter apps (E-commerce, Dairy App, Container Tracking, Doctor Finder, Food Delivery, and more).<br>🤝 I’m looking to collaborate on Flutter development projects, open-source contributions, and mobile + web app solutions.<br>👐 I’m looking for help with advanced Flutter integrations (APIs, state management, performance optimization, and PDF generation).<br>🌱 I’m currently learning MSc IT concepts, advanced Flutter, GetX, Shopify integration, and backend connectivity.<br>💬 Ask me about Flutter, Dart, API integration, Android Studio, Postman, and building cross-platform apps.<br>⚡ Fun fact: I built a Word Hurdle game, a Virtual Card Holder app, and love creating apps that solve real-world problems.
+🛠️ I’m currently working on Scope store mangment.<br>🤝 I’m looking to collaborate on Flutter development projects, open-source contributions, and mobile app solutions.<br>👐 I’m looking for help with advanced Flutter integrations (APIs, state management, performance optimization, and Real-time Data Processing).<br>💬 Ask me about Flutter, Dart, API integration, Android Studio, Postman, and building cross-platform apps.
 
 
 ## 🌐 Socials:
